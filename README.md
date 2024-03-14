@@ -9,7 +9,7 @@ Enjoy!
 
 ## How I made it.
 
-Librestile is my first succesful attempt to create a working font. I always liked Microgramma/GreenMountain3/Eurostile fonts, but there is no font that is similar to it, but with free, open license. So I decided to take up to the challenge and make one. Then I found font called Michroma (https://fonts.google.com/specimen/Michroma) on Google Fonts, which is basically libre version of lighter weight of Eurostile. Michroma was my main inspiration - you can basically tell that this is Michroma, but bold and extended. 
+Librestile is my first succesful attempt to create a working font. I always liked Microgramma/GreenMountain3/Eurostile fonts, but there is no font that is similar to it, but with free, open license. So I decided to take up to the challenge and make one. Then I found font called Michroma (https://fonts.google.com/specimen/Michroma) on Google Fonts, which is basically libre version of lighter weight of Eurostile. Michroma was my main inspiration - you can basically tell that Librestile is a version of Michroma, but bold and extended. 
 
 I designed my glyphs using Inkscape - since I am familiar with Inkscape, it was a pretty easy task, that also allowed to play around with my creativity. Next, I imported the glyphs into FontForge, when I adjusted spacing, some kerning and generate slanted weight (around -10). I also generated webfont .woff files using FontSquirrel's Webfont Generator. 
 
