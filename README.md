@@ -13,6 +13,9 @@ Librestile is my first succesful attempt to create a working font. I always like
 
 I designed my glyphs using Inkscape - since I am familiar with Inkscape, it was a pretty easy task, that also allowed to play around with my creativity. Next, I imported the glyphs into FontForge, when I adjusted spacing, some kerning and generate slanted weight (around -10). I also generated webfont .woff files using FontSquirrel's Webfont Generator. 
 
+
+### In this repo, you can find my Inkscape workspace for the font, glyphs exported to .svg from fontforge (check out this tutorial if you also want to do it: https://www.youtube.com/watch?v=bS2xwBIW6Lg) and also .sfd files from FontForge.
+
 ## 
 
 ![alt text](https://github.com/ocelothe/Librestile/blob/main/documentation/Librestile%20Extended.png?raw=true)
