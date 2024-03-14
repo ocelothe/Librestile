@@ -5,5 +5,6 @@ Librestile is a font heavily inspired by fonts called Green Mountain 3, Microgra
 If you want to say a little "thank you" just subscribe to my YT channels (https://www.youtube.com/@OCELOTHE / https://www.youtube.com/@ocelothe2k1)
 Enjoy!
 
+![alt text](https://github.com/ocelothe/Librestile/blob/main/documentation/Librestile%20Extended.png?raw=true)
 
 
